@@ -1,0 +1,14 @@
+.question{
+    padding: 0px 0px 20px 10px;
+    background-image:linear-gradient(#ED3B9D ,#FF0169);
+}
+.QNA{
+    font-size:3rem;
+    padding-bottom:20px;
+    padding-top:20px;
+    color:white;
+}
+.question> h5{
+    color:white !important;
+    padding:10px;
+}
